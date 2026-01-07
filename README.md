@@ -1,2 +1,21 @@
-# Inventary-Management-System-
-Inventory Management System is a Java-based application designed to manage products, stock levels, and sales efficiently. It allows users to add, update, delete, and view inventory records with a user-friendly interface. The system helps reduce manual errors and improves stock tracking accuracy.
+# Inventory Management System
+
+## Project Overview
+The Inventory Management System is a Java-based application developed to manage product inventory efficiently. It helps in tracking stock levels, managing product details, and maintaining accurate inventory records for small to medium-scale businesses.
+
+## Features
+- Add new products to inventory
+- Update existing product details
+- Delete products from inventory
+- View all available products
+- Automatic stock management
+- Simple and user-friendly interface
+
+## Technologies Used
+- Java (Core Java)
+- JDBC 
+- MySQL 
+- Eclipse / VS Code
+
+## How to Run the Project
+1. Clone the repository  
