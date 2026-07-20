@@ -1,7 +1,7 @@
 # Inventory Management API
 
 ## Project Overview
-The Inventory Management API is a backend application developed using Core Java, JDBC, and MySQL to streamline inventory operations through efficient product and stock management. It supports real-time inventory tracking, storage, and updates using CRUD operations while ensuring reliable data persistence with a normalized relational database. The project demonstrates practical backend development concepts, including database integration, SQL optimization, and object-oriented programming.
+The Inventory Management API is a Java-based backend application built using Java, JDBC, and MySQL to manage product inventory through RESTful CRUD operations. It supports real-time inventory tracking, efficient data storage, and optimized SQL queries using a normalized relational database. The project demonstrates backend API development, database integration, and scalable inventory management.
 
 ## Features
 - Manage product inventory with Create, Read, Update, and Delete (CRUD) operations
