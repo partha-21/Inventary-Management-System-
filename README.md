@@ -1,15 +1,15 @@
-# Inventory Management System
+# Inventory Management API
 
 ## Project Overview
-The Inventory Management System is a Java-based application developed to manage product inventory efficiently. It helps in tracking stock levels, managing product details, and maintaining accurate inventory records for small to medium-scale businesses.
+The Inventory Management API is a backend application developed using Core Java, JDBC, and MySQL to streamline inventory operations through efficient product and stock management. It supports real-time inventory tracking, storage, and updates using CRUD operations while ensuring reliable data persistence with a normalized relational database. The project demonstrates practical backend development concepts, including database integration, SQL optimization, and object-oriented programming.
 
 ## Features
-- Add new products to inventory
-- Update existing product details
-- Delete products from inventory
-- View all available products
-- Automatic stock management
-- Simple and user-friendly interface
+- Manage product inventory with Create, Read, Update, and Delete (CRUD) operations
+- Track and update stock levels efficiently
+- Store and retrieve inventory data using MySQL
+- Optimized SQL queries for improved data retrieval performance
+- Normalized relational database design with multiple entities
+- Secure and reliable database connectivity using JDBC
 
 ## Technologies Used
 - Java (Core Java)
@@ -17,5 +17,7 @@ The Inventory Management System is a Java-based application developed to manage 
 - MySQL 
 - Eclipse / VS Code
 
-## How to Run the Project
-1. Clone the repository  
+## Highlights
+Designed a normalized relational database with multiple entities to support efficient inventory operations.
+Optimized SQL queries to improve database performance and retrieval speed.
+Patent filed under the Government of India (Application No. 202541114079).
