@@ -1,23 +1,76 @@
-# Inventory Management API
+# Inventory Management System
 
-## Project Overview
-The Inventory Management API is a Java-based backend application built using Java, JDBC, and MySQL to manage product inventory through RESTful CRUD operations. It supports real-time inventory tracking, efficient data storage, and optimized SQL queries using a normalized relational database. The project demonstrates backend API development, database integration, and scalable inventory management.
+A modern **Inventory Management System** built with a structured web architecture and a clean modular frontend, designed to simulate real-world inventory, product, order, and tracking operations. The project emphasizes workflow-driven application design, organized code structure, and scalable inventory management concepts.
 
-## Features
-- Manage product inventory with Create, Read, Update, and Delete (CRUD) operations
-- Track and update stock levels efficiently
-- Store and retrieve inventory data using MySQL
-- Optimized SQL queries for improved data retrieval performance
-- Normalized relational database design with multiple entities
-- Secure and reliable database connectivity using JDBC
+## Project Showcase
 
-## Technologies Used
-- Java (Core Java)
-- JDBC 
-- MySQL 
-- Eclipse / VS Code
+* **End-to-end inventory management workflow**
+* **Product catalog and inventory organization**
+* **Order processing and confirmation flow**
+* **Order tracking interface**
+* **Admin authentication and dashboard modules**
+* **Modular JavaScript architecture**
+* **Responsive user interface design**
+* **Separation of presentation, business logic, and API interaction**
 
-## Highlights
-Designed a normalized relational database with multiple entities to support efficient inventory operations.
-Optimized SQL queries to improve database performance and retrieval speed.
-Patent filed under the Government of India (Application No. 202541114079).
+## Workflow Architecture
+
+```text
+Customer Interface
+        │
+        ▼
+Authentication
+        │
+        ▼
+Product Catalog
+        │
+        ▼
+Inventory Validation
+        │
+        ▼
+Order Processing
+        │
+        ▼
+Order Confirmation
+        │
+        ▼
+Tracking System
+        │
+        ▼
+Admin Dashboard & Inventory Control
+```
+
+## Core Modules
+
+* Product Management
+* Inventory Management
+* User Authentication
+* Admin Dashboard
+* Order Processing
+* Order Confirmation
+* Order Tracking
+
+## Frontend Architecture
+
+```text
+HTML Pages
+     │
+     ▼
+JavaScript Modules
+     │
+     ▼
+API Interaction Layer
+     │
+     ▼
+Inventory & Order Workflow
+```
+
+## Technology Stack
+
+* **HTML5**
+* **CSS3**
+* **JavaScript (ES6)**
+* **Modular Frontend Architecture**
+* **API-based Workflow Design**
+
+This repository highlights **inventory workflow modeling**, **modular web application architecture**, **admin and customer interaction flows**, and **organized frontend engineering practices**, making it a strong portfolio project for **Software Engineering**, **Web Development**, and **Backend Integration** focused roles.
